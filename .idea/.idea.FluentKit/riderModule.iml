@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../FluentHelpers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FluentSlider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FluentUi" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentHelpers/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentHelpers/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentSlider/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentSlider/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentUi/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentUi/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
