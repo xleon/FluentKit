@@ -2,15 +2,15 @@
 <module type="RIDER_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../..">
-      <sourceFolder url="file://$MODULE_DIR$/../../FluentHelpers" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../FluentSlider" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../FluentUi" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../../FluentHelpers/bin" />
-      <excludeFolder url="file://$MODULE_DIR$/../../FluentHelpers/obj" />
-      <excludeFolder url="file://$MODULE_DIR$/../../FluentSlider/bin" />
-      <excludeFolder url="file://$MODULE_DIR$/../../FluentSlider/obj" />
-      <excludeFolder url="file://$MODULE_DIR$/../../FluentUi/bin" />
-      <excludeFolder url="file://$MODULE_DIR$/../../FluentUi/obj" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FluentKit.Slider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FluentKit.ViewUtil" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FluentUIKit" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentKit.Slider/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentKit.Slider/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentKit.ViewUtil/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentKit.ViewUtil/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentUIKit/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FluentUIKit/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
